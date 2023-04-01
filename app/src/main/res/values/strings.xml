@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Historical Light</string>
+    <string name="str_game">GAME</string>
+    <string name="str_sound">SOUND</string>
+    <string name="str_vibration">VIBRATION</string>
+    <string name="str_score">SCORE</string>
+</resources>
